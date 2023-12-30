@@ -1,0 +1,15 @@
+https://github.com/newdigate/teensy-x86-stubs.git main
+https://github.com/newdigate/teensy-x86-sd-stubs.git main
+https://github.com/newdigate/teensy-x86-spi-stubs.git main
+https://github.com/newdigate/teensy-x86-tlc5947-stubs main
+https://github.com/newdigate/teensy-x86-mpr121-stubs main
+https://github.com/newdigate/teensy-x86-twowire-stubs main
+https://github.com/newdigate/teensy-audio-x86-stubs main
+https://github.com/newdigate/teensy-x86-uClock-stubs main
+https://github.com/newdigate/teensy-variable-playback master
+https://github.com/newdigate/teensy-x86-keypad-stubs main
+https://github.com/newdigate/teensy-x86-responsiveanalogread-stubs main
+https://github.com/newdigate/teensy-x86-time-stubs main
+https://github.com/newdigate/teensy-sample-flashloader feature/audio_chunk_heap
+https://github.com/newdigate/teensy-x86-midi-stubs main
+https://github.com/newdigate/teensy-x86-u8g2-stubs main
